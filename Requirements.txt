@@ -1,0 +1,25 @@
+MATLAB Project Requirements
+===========================
+1. MATLAB Version
+-----------------
+Recommended: MATLAB R2018b or later
+Minimum: MATLAB R2016a
+Reason: Uses 'parpool' (Parallel Computing) and 'imgradientxy' (Image Processing).
+2. Required Toolboxes
+-----------------------------
+The following toolboxes must be installed and licensed for the code to run:
+Image Processing Toolbox
+(Used for image processing functions such as imresize, padarray, imgradientxy, stdfilt, etc.)
+
+Parallel Computing Toolbox
+(Used for parallel computing features such as parpool, parfor, etc. If not installed, you must change 'parfor' to 'for' in the code.)
+
+3. Hardware Recommendations
+-----------------------------------
+CPU: Multi-core processor (4 cores or more recommended for TGIDE parallel acceleration).
+
+RAM: 8GB or higher (Image pyramids and padding operations increase memory usage).
+
+4. File System
+--------------
+Permissions: Read/Write access to the current directory to create './result' folders.
