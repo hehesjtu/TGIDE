@@ -1,6 +1,6 @@
 TGIDE Image Detail Enhancement Project
-
 Tornadogenesis-Inspired Image Detail Enhancement Algorithm (TGIDE)
+
 =================================================
 # Project Introduction
 This project contains an image detail enhancement tool based on a swarm intelligence optimization algorithm (Tornadogenesis-Inspired Algorithm).
