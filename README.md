@@ -1,5 +1,5 @@
 # TGIDE 
-This is the source code of paper named "Tornadogenesis-Inspired Image Detail Enhancement ". This paper is submitted to IEEE Transactions on Cybernetics.
+This is the source code of paper named "Tornadogenesis-Inspired Algorithm for Single Image Detail Enhancement". This paper is submitted to IEEE Transactions on Cybernetics.
 # Project Introduction
 This project contains an image detail enhancement tool based on a swarm intelligence optimization algorithm (Tornadogenesis-Inspired Algorithm).
 It works by decomposing the image into a base layer and a detail layer, utilizing the TGIDE algorithm to optimize high-frequency residuals, and finally re-fusing them to enhance the texture and edge details of the image.
