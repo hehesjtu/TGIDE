@@ -1,4 +1,5 @@
 TGIDE Image Detail Enhancement Project
+
 Tornadogenesis-Inspired Image Detail Enhancement Algorithm (TGIDE)
 =================================================
 # Project Introduction
